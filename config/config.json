@@ -1,0 +1,11 @@
+{
+    "paths": {
+        "folders": {
+            "projects_folder": "~/dev/godot/projects",
+            "plugins_folder": "~/dev/godot/plugins",
+            "godot_cpp_folder": "~/dev/godot/godot-cpp"
+        },
+        "files": {}
+
+    }
+}
